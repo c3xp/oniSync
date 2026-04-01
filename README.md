@@ -1,5 +1,8 @@
-# OniSync
 
+<img src="assets/logo.png" alt="OniSync Logo" width="400"/>
+
+# OniSync
+  
 BPM Analyzer + converter + loop extractor for hardware sampling workflows
 
 Tool minimale in Python + Tkinter per:
@@ -22,3 +25,6 @@ python app.py
 - Se l'ambiente fatica ad aprire alcuni MP3, installa anche `ffmpeg` nel sistema.
 - Il logo viene caricato da `assets/logo.png`.
 - Il loader è a step testuali + progress bar indeterminata.
+
+## Screenshot
+<img src="assets/screenshot.png" alt="OniSync Screenshot" width="600"/>
