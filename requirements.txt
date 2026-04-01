@@ -1,0 +1,5 @@
+librosa
+soundfile
+simpleaudio
+numpy
+pillow
